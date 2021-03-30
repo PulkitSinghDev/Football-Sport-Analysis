@@ -17,4 +17,4 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Source code:-
-[index.py](/scripts/footyviz.py)
+[Source CODE](/scripts/footyviz.py)
